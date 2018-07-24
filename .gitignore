@@ -1,0 +1,13 @@
+*.json
+*.h5
+*.hdf5
+*.npz
+*.pickle
+.DS_Store
+
+notebook/.ipynb_checkpoints
+data/*/
+results/*/images
+results/*/saved_models
+
+__pycache__
